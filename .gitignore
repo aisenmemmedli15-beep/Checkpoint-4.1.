@@ -1,0 +1,27 @@
+# Environment Dəyişənləri və Məfili Məlumatlar
+.env
+.env.local
+*.pem
+
+# Python Keş və Kompilyasiya Faylları
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual Mühit (Virtual Environment)
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE və Redaktor Konfiqurasiyaları
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Əməliyyat Sistemi Faylları
+.DS_Store
+Thumbs.db
